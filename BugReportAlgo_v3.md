@@ -6,7 +6,7 @@ In this issue, we bring you updates on our members' achievements, a math problem
 
 # WEC Algo Sets Questions for a Codechef Contest
 
-<img src="images/cc.png" alt="Image" width="30%">
+<img src="Images/cc.png" alt="Image" width="30%">
 
 
 We are thrilled to share a major milestone for our club—**for the first time ever**, we had the opportunity to **create all questions** for a **CodeChef contest**! This experience was both exciting and challenging, giving us a chance to contribute to one of the largest competitive programming platforms in the world.
@@ -59,8 +59,8 @@ Our team, **Trie Harder**, consists of:
 - Tarun Joshi, 3rd year
 
 <p>
-    <img src="images/icpc2.jpeg" alt="Image" width="35%">
-    <img src="images/icpc1.jpeg" alt="Image" width="35%">
+    <img src="Images/icpc2.jpeg" alt="Image" width="35%">
+    <img src="Images/icpc1.jpeg" alt="Image" width="35%">
 </p>
 
 This ICPC was my last chance (since I am in my 4th year) to qualify for regionals, something I had never done before. After choking last year's contest, I was determined to make sure I went to regionals once during my college years.
